@@ -1,0 +1,3 @@
+
+class Alias(str):
+  pass
